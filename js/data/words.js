@@ -1,0 +1,22 @@
+const EssentialWords = [
+  {korean:'안녕하세요', roman:'annyeonghaseyo', english:'hello'},
+  {korean:'감사합니다', roman:'gamsahamnida', english:'thank you'},
+  {korean:'죄송합니다', roman:'joesonghamnida', english:'sorry'},
+  {korean:'네', roman:'ne', english:'yes'},
+  {korean:'아니요', roman:'aniyo', english:'no'},
+  {korean:'화장실', roman:'hwajangsil', english:'bathroom'},
+  {korean:'도와주세요', roman:'dowajuseyo', english:'please help'},
+  {korean:'얼마예요?', roman:'eolmayeyo?', english:'how much is it?'},
+  {korean:'카드', roman:'kadeu', english:'credit card'},
+  {korean:'현금', roman:'hyeongeum', english:'cash'},
+  {korean:'지하철', roman:'jihacheol', english:'subway'},
+  {korean:'버스', roman:'beoseu', english:'bus'},
+  {korean:'택시', roman:'taegsi', english:'taxi'},
+  {korean:'길', roman:'gil', english:'road'},
+  {korean:'병원', roman:'byeongwon', english:'hospital'},
+  {korean:'경찰', roman:'gyeongchal', english:'police'},
+  {korean:'도시', roman:'dosi', english:'city'},
+  {korean:'지도', roman:'jido', english:'map'},
+  {korean:'어디', roman:'eodi', english:'where'},
+  {korean:'이거', roman:'igeo', english:'this'}
+];

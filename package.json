@@ -1,0 +1,8 @@
+{
+  "name": "korean-canvas-app",
+  "version": "1.0.0",
+  "description": "Canvas-based Korean learning app",
+  "scripts": {
+    "test": "echo 'no tests'"
+  }
+}
